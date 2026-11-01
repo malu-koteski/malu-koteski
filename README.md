@@ -127,17 +127,17 @@
 <summary><b>&nbsp;Coding-time breakdown</b> &nbsp;—&nbsp; updated every 12 hours by GitHub Actions</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C425%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C427%20hrs%204%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.91%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-21.55%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 2,465 Contributions in the Year 2026
+> 🏆 2,487 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -145,6 +145,50 @@
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                5626 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
+🌆 Daytime                24714 commits       ██████████████░░░░░░░░░░░   54.94 % 
+🌃 Evening                13239 commits       ███████░░░░░░░░░░░░░░░░░░   29.43 % 
+🌙 Night                  1401 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   8425 commits        █████░░░░░░░░░░░░░░░░░░░░   18.73 % 
+Tuesday                  12024 commits       ███████░░░░░░░░░░░░░░░░░░   26.73 % 
+Wednesday                9061 commits        █████░░░░░░░░░░░░░░░░░░░░   20.14 % 
+Thursday                 7775 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
+Friday                   332 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+Saturday                 1020 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+Sunday                   6343 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Dhaka
+
+💬 Programming Languages: 
+Python                   10 hrs 17 mins      █████████░░░░░░░░░░░░░░░░   37.65 % 
+HTML                     5 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   18.56 % 
+Markdown                 4 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
+JavaScript               2 hrs 52 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+Bash                     2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
+
+🔥 Editors: 
+Claude Code              15 hrs 57 mins      ███████████████░░░░░░░░░░   58.40 % 
+Chrome                   5 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   20.99 % 
+OpenClaw                 4 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
+Antigravity              1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
+
+💻 Operating System: 
+Linux                    24 hrs 49 mins      ███████████████████████░░   90.83 % 
+Windows                  2 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -158,7 +202,7 @@ Java                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 01/11/2026 04:19:16 UTC
+ Last Updated on 01/11/2026 17:46:08 UTC
 <!--END_SECTION:waka-->
 
 </details>
