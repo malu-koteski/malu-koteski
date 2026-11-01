@@ -131,13 +131,13 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.28%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.91%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 2,448 Contributions in the Year 2026
+> 🏆 2,465 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -145,50 +145,6 @@
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                5154 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
-🌆 Daytime                22754 commits       ██████████████░░░░░░░░░░░   55.04 % 
-🌃 Evening                12207 commits       ███████░░░░░░░░░░░░░░░░░░   29.53 % 
-🌙 Night                  1225 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   7721 commits        █████░░░░░░░░░░░░░░░░░░░░   18.68 % 
-Tuesday                  11056 commits       ███████░░░░░░░░░░░░░░░░░░   26.74 % 
-Wednesday                8341 commits        █████░░░░░░░░░░░░░░░░░░░░   20.18 % 
-Thursday                 7103 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
-Friday                   332 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
-Saturday                 972 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
-Sunday                   5815 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Dhaka
-
-💬 Programming Languages: 
-Python                   7 hrs 50 mins       ████████░░░░░░░░░░░░░░░░░   33.37 % 
-HTML                     4 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   19.80 % 
-Markdown                 4 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   19.46 % 
-Bash                     2 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
-Other                    2 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
-
-🔥 Editors: 
-Claude Code              13 hrs 6 mins       ██████████████░░░░░░░░░░░   55.89 % 
-Chrome                   5 hrs 46 mins       ██████░░░░░░░░░░░░░░░░░░░   24.61 % 
-OpenClaw                 3 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
-Antigravity              1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
-
-💻 Operating System: 
-Linux                    20 hrs 56 mins      ██████████████████████░░░   89.31 % 
-Windows                  2 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -202,7 +158,7 @@ Java                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 31/10/2026 16:55:55 UTC
+ Last Updated on 01/11/2026 04:19:16 UTC
 <!--END_SECTION:waka-->
 
 </details>
