@@ -29,7 +29,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/stack-light.svg">
-  <img alt="Languages: TypeScript, JavaScript, Python, Java, C++. Frontend: HTML5, CSS3, TypeScript, JavaScript. Backend: Java, Python, Node.js. Academic: Algorithms, Programming Logic, Electric Circuits. Tools: Git, GitHub, Linux, VS Code." src="assets/stack-dark.svg" width="100%">
+  <img alt="Languages: Python, C, C++, Java, JavaScript, TypeScript, HTML. Backend: Java, C++, Python. Frontend: JavaScript, TypeScript, Tailwind, CSS, Next, React, HTML. Infra: Docker, Linux. Data: PostgreSQL. Automation: n8n." src="assets/stack-dark.png" width="100%">
 </picture>
 
 <details>
