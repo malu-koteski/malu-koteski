@@ -26,7 +26,7 @@
 
 ## Stack
 
-<img alt="Languages: Python, C, C++, Java, JavaScript, TypeScript, HTML. Backend: Java, C++, Python. Frontend: JavaScript, TypeScript, Tailwind, CSS, Next, React, HTML. Infra: Docker, Linux. Data: PostgreSQL. Automation: n8n." src="malu-koteski\assets\stack-dark.png" width="100%">
+<img alt="Languages: Python, C, C++, Java, JavaScript, TypeScript, HTML. Backend: Java, C++, Python. Frontend: JavaScript, TypeScript, Tailwind, CSS, Next, React, HTML. Infra: Docker, Linux. Data: PostgreSQL. Automation: n8n." src="assets/stack-dark.png" width="100%">
 
 <details>
 <summary><b>&nbsp;Experience & Education</b> &nbsp;—&nbsp; IACIT & UNIFESP</summary>
