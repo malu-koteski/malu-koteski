@@ -10,15 +10,6 @@ Everything derives from PALETTE below, so the dark and light variants — and
 the panels themselves — can't drift apart. Edit the content constants, then:
 
     python3 scripts/build_assets.py
-
-Text is monospace throughout and every line is width-checked at build time
-against the widest common monospace advance, so a panel that builds here
-fits on any machine that renders it. Overflow fails the build.
-
-Note these panels are images: they scale with the container but never
-reflow. Dense reference content (track record, credentials, the project
-table) deliberately stays as markdown + badges in README.md so it stays
-readable on a phone.
 """
 
 import pathlib
@@ -62,67 +53,65 @@ PALETTE = {
 
 # ---------------------------------------------------------------- content ---
 
-NAME = ("DIPALOKE", ".", "BISWAS")
-TAGLINE = "I automate a national fibre network — then build the software people use to watch it."
-STATUS = "OPEN TO WORK · DHAKA, BD · HYBRID / REMOTE"
-ROLE = "FIBER@HOME · FULL-STACK / NETWORK AUTOMATION"
+NAME = ("MALU", ".", "KOTESKI")
+TAGLINE = "Fullstack dev intern @ lacit & undergrad @ UNIFESP — building web apps and clean code."
+STATUS = "OPEN TO COLLAB · SJC, BRAZIL · UTC-03:00"
+ROLE = "LACIT · FULL-STACK DEV INTERN"
 
 # (hue, label, bold lead-in, rest)
 NOW = [
-    ("cyan", "SHIPPING", "NAAS v2", "— Fiber@Home's network ops platform, now a DRF API + Next.js 16 console."),
-    ("purple", "BUILDING", "Agile East Bangladesh", "— a manufacturing-execution engine for MPO/MTP patch cords."),
-    ("amber", "ASK ME", "", "Netmiko vs. NAPALM, Django REST internals, or Next.js 16 at scale."),
+    ("cyan", "WORKING", "lacit", "— developing full-stack applications with TypeScript, JavaScript, and Java."),
+    ("purple", "STUDYING", "UNIFESP", "— undergraduate coursework in Programming Logic, Python, C++, and Circuits."),
+    ("amber", "ASK ME", "", "Full-stack web development, Python algorithms, or TypeScript projects."),
 ]
 
 # (hue, category, tools)
 STACK = [
-    ("cyan", "LANGUAGES", "Python · TypeScript · JavaScript"),
-    ("green", "AUTOMATION", "Netmiko · NAPALM · Paramiko · Ansible"),
-    ("purple", "BACKEND", "Django · Django REST Framework · FastAPI · GraphQL · NestJS · Express"),
-    ("blue", "FRONTEND", "Next.js 16 · React · shadcn/ui · HeroUI · Tailwind"),
-    ("amber", "DATA", "PostgreSQL · InfluxDB · MongoDB · TanStack Table · Zod"),
-    ("pink", "INFRA", "Docker · Celery · GitHub Actions · Linux"),
-    ("cyan", "TESTING", "Pytest · Jest · Selenium"),
+    ("cyan", "LANGUAGES", "TypeScript · JavaScript · Python · Java · C++"),
+    ("blue", "FRONTEND", "HTML5 · CSS3 · TypeScript · JavaScript"),
+    ("purple", "BACKEND", "Java · Python · Node.js"),
+    ("amber", "ACADEMIC", "Algorithms · Programming Logic · Electric Circuits"),
+    ("pink", "TOOLS", "Git · GitHub · Linux · VS Code"),
 ]
 
 CARDS = [
     {
-        "title": "NAAS",
-        "status": "LIVE",
+        "title": "SAIF",
+        "status": "FEATURED",
         "hue": "green",
         "body": [
-            "Fiber@Home's network operations platform. Config",
-            "automation and scheduled job processing across a",
-            "national fibre estate.",
+            "Featured software project developed and",
+            "maintained on GitHub, focused on clean",
+            "architecture and practical problem solving.",
         ],
-        "tags": "Python · Django · Netmiko · Celery",
+        "tags": "Full-Stack · Git · Software Engineering",
     },
     {
-        "title": "NAAS v2",
-        "status": "IN REWRITE",
+        "title": "Programacao-Python",
+        "status": "UNIFESP",
         "hue": "cyan",
         "body": [
-            "The same domain, decoupled — a DRF API behind a",
-            "Next.js 16 console with grouped-header tables and",
-            "CSV / XLSX / PDF export.",
+            "Structured resolutions and algorithms for",
+            "the Programming Logic course at UNIFESP",
+            "in São José dos Campos.",
         ],
-        "tags": "TypeScript · DRF · HeroUI · TanStack",
+        "tags": "Python · Algorithms · Logic · UNIFESP",
     },
 ]
 
-FOOTER_LEAD = "Got a network that should run itself — or a product that should ship?"
-FOOTER_SUB = "Pick a slot. Bring an agenda, I'll bring opinions."
-FOOTER_LEFT = "AVAILABLE FOR NEW WORK"
-FOOTER_RIGHT = "DHAKA, BD · HYBRID / REMOTE · UTC+06:00"
+FOOTER_LEAD = "Want to collaborate on a project or talk about tech?"
+FOOTER_SUB = "Feel free to reach out via email or connect on GitHub."
+FOOTER_LEFT = "OPEN TO OPPORTUNITIES & COLLABS"
+FOOTER_RIGHT = "SÃO JOSÉ DOS CAMPOS, BR · UTC-03:00"
 
 # ----------------------------------------------------------------- layout ---
 
-W = 1000  # every panel shares one viewBox width so type scales identically
+W = 1000
 MONO = "ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
-EM = 0.6  # widest common monospace advance; budget against it
+EM = 0.6
 PAD = 28
-LABEL_X = 64  # category label column
-TEXT_X = 210  # content column, clear of the widest label
+LABEL_X = 64
+TEXT_X = 210
 
 _problems = []
 
@@ -160,10 +149,10 @@ def build_banner(t):
     first, dot, last = NAME
     fits(TAGLINE, 15, 42, "banner tagline")
     fits(STATUS + ROLE, 12, 60, "banner bottom row", W - 40)
-    return f"""<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{BANNER_H}" viewBox="0 0 {W} {BANNER_H}" role="img" aria-label="Dipaloke Biswas — full-stack developer and network automation engineer. {esc(STATUS)}">
+    return f"""<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{BANNER_H}" viewBox="0 0 {W} {BANNER_H}" role="img" aria-label="Maria Luisa Koteski — full-stack developer intern at lacit. {esc(STATUS)}">
   <defs>
     <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
-      <path d="M44 0H0v44" fill="none" stroke="{t['cyan']}" stroke-width="1" opacity="{t['grid_opacity']}"/>
+      <path d="M44 0H0v44" fill="none" stroke="{t['pink']}" stroke-width="1" opacity="{t['grid_opacity']}"/>
     </pattern>
     <clipPath id="round"><rect x="0.5" y="0.5" width="{W - 1}" height="{BANNER_H - 1}" rx="6"/></clipPath>
   </defs>
@@ -173,7 +162,7 @@ def build_banner(t):
   </g>
   <rect x="0.5" y="0.5" width="{W - 1}" height="{BANNER_H - 1}" rx="6" fill="none" stroke="{t['border']}"/>
   <g font-family="{MONO}">
-    <text x="40" y="86" font-size="44" font-weight="700" letter-spacing="5.5" fill="{t['heading']}">{first}<tspan fill="{t['cyan']}">{dot}</tspan>{last}</text>
+    <text x="40" y="86" font-size="44" font-weight="700" letter-spacing="5.5" fill="{t['heading']}">{first}<tspan fill="{t['pink']}">{dot}</tspan>{last}</text>
     <text x="42" y="122" font-size="15" fill="{t['body']}">{esc(TAGLINE)}</text>
     <line x1="42" y1="150" x2="{W - 40}" y2="150" stroke="{t['border']}"/>
     <circle cx="46" cy="171" r="3.5" fill="{t['green']}"/>
@@ -293,6 +282,7 @@ BUILDERS = {
 
 def main():
     out = pathlib.Path(__file__).resolve().parent.parent / "assets"
+    out.mkdir(exist_ok=True)
     written = []
     for theme, t in PALETTE.items():
         for kind, build in BUILDERS.items():
@@ -306,7 +296,7 @@ def main():
         return 1
 
     for path, svg in written:
-        path.write_text(svg)
+        path.write_text(svg, encoding="utf-8")
     print(f"wrote {len(written)} panels to assets/")
     return 0
 
