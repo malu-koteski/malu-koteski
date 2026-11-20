@@ -27,8 +27,6 @@
 ## Stack
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/stack-light.svg">
   <img alt="Languages: Python, C, C++, Java, JavaScript, TypeScript, HTML. Backend: Java, C++, Python. Frontend: JavaScript, TypeScript, Tailwind, CSS, Next, React, HTML. Infra: Docker, Linux. Data: PostgreSQL. Automation: n8n." src="malu-koteski\assets\stack-dark.png" width="100%">
 </picture>
 
