@@ -20,11 +20,7 @@
 
 ## Now
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/now-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/now-light.svg">
-  <img alt="Working: lacit — developing full-stack applications with TypeScript, JavaScript, and Java. Studying: UNIFESP — undergraduate coursework in Programming Logic, Python, C++, and Circuits." src="assets/now-dark.svg" width="100%">
-</picture>
+<img alt="Maria Luisa Koteski" src="assets/banner-dark.png" width="100%">
 
 ## Work & Projects
 
