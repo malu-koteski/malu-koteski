@@ -7,7 +7,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-F778BA?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=21262D)](https://github.com/malu-koteski)
 [![Email](https://img.shields.io/badge/Email-BC8CFF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=21262D)](mailto:marialuisakoteski@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=21262D)](https://www.linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/Maria_Luisa_Koteski-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=21262D)](https://br.linkedin.com/in/maria-luisa-koteski-3317b0233)
 
 ## Now
 
