@@ -1,17 +1,8 @@
-<!-- ============================================================
-     malu-koteski/malu-koteski — profile README
-     ============================================================ -->
+<img alt="Malu Koteski — UNIFESP, Software Developer, Computer Engineer" src="assets/banner-dark.png" width="100%">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-  <img alt="Maria Luisa Koteski — full-stack developer intern at lacit." src="assets/banner-dark.svg" width="100%">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=F778BA&background=00000000&vCenter=true&width=620&height=44&lines=%3E+fullstack+dev+intern+%40+lacit;%3E+undergrad+%40+UNIFESP;%3E+typescript+%C2%B7+javascript+%C2%B7+java;%3E+python+%C2%B7+c%2B%2B+%C2%B7+html+%C2%B7+css">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=BF3989&background=00000000&vCenter=true&width=620&height=44&lines=%3E+fullstack+dev+intern+%40+lacit;%3E+undergrad+%40+UNIFESP;%3E+typescript+%C2%B7+javascript+%C2%B7+java;%3E+python+%C2%B7+c%2B%2B+%C2%B7+html+%C2%B7+css">
-  <img alt="fullstack dev intern @ lacit / undergrad @ UNIFESP / typescript, javascript, java / python, c++, html, css" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=F778BA&background=00000000&vCenter=true&width=620&height=44&lines=%3E+fullstack+dev+intern+%40+lacit;%3E+undergrad+%40+UNIFESP;%3E+typescript+%C2%B7+javascript+%C2%B7+java;%3E+python+%C2%B7+c%2B%2B+%C2%B7+html+%C2%B7+css">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=F778BA&background=00000000&vCenter=true&width=620&height=44&lines=%3E+fullstack+dev+intern+%40+IACIT;%3E+undergrad+%40+UNIFESP;%3E+typescript+%C2%B7+javascript+%C2%B7+java;%3E+python+%C2%B7+c%2B%2B+%C2%B7+html+%C2%B7+css">
+  <img alt="fullstack dev intern @ IACIT / undergrad @ UNIFESP / typescript, javascript, java, python, c++, html, css" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=F778BA&background=00000000&vCenter=true&width=620&height=44&lines=%3E+fullstack+dev+intern+%40+IACIT;%3E+undergrad+%40+UNIFESP;%3E+typescript+%C2%B7+javascript+%C2%B7+java;%3E+python+%C2%B7+c%2B%2B+%C2%B7+html+%C2%B7+css">
 </picture>
 
 [![GitHub](https://img.shields.io/badge/GitHub-F778BA?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=21262D)](https://github.com/malu-koteski)
@@ -20,34 +11,18 @@
 
 ## Now
 
-<img alt="Maria Luisa Koteski" src="assets/banner-dark.png" width="100%">
+- **Working @ IACIT** — Developing full-stack web applications with TypeScript, JavaScript, and Java.
+- **Studying @ UNIFESP** — Undergraduate coursework in Computer Engineering, Programming Logic, Python, C++, and Electric Circuits.
+- **Ask me about** — Full-stack development, Python algorithms, or TypeScript projects.
 
 ## Work & Projects
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/work-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/work-light.svg">
-  <img alt="SAIF and Programacao-Python projects." src="assets/work-dark.svg" width="100%">
-</picture>
-
-<div align="center">
-
-[![SAIF Repo](https://img.shields.io/badge/SAIF-repository_↗-3FB950?style=for-the-badge&labelColor=21262D)](https://github.com/malu-koteski/SAIF)
-[![Programacao-Python Repo](https://img.shields.io/badge/Programacao--Python-repository_↗-56D4DD?style=for-the-badge&labelColor=21262D)](https://github.com/malu-koteski/Programacao-Python)
-
-</div>
-
-<details>
-<summary><b>&nbsp;More repositories</b> &nbsp;—&nbsp; academic coursework and projects</summary>
-
-<br>
-
-| Project                   | Description                                                                                                                                                                                                           | Link                                                                                                                                                         |
-| :------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **circuitos-eletricos-I** | Electric Circuits I simulation and coursework tools built with TypeScript. <br><br> ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=21262D) | [![View repo ↗](https://img.shields.io/badge/View_repo_↗-56D4DD?style=flat-square&labelColor=21262D)](https://github.com/malu-koteski/circuitos-eletricos-I) |
-| **lp-aulas**              | Class notes, exercises, and practical examples from Programming Logic lectures. <br><br> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=21262D)        | [![View repo ↗](https://img.shields.io/badge/View_repo_↗-3FB950?style=flat-square&labelColor=21262D)](https://github.com/malu-koteski/lp-aulas)              |
-
-</details>
+| Project                   | Description                                                                                                                                                                                                           | Link                                                                                                                                                                           |
+| :------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **SAIF**                  | Featured software project developed and maintained on GitHub, focused on clean architecture and problem solving.                                                                                                      | [![SAIF Repo ↗](https://img.shields.io/badge/SAIF-repository_↗-3FB950?style=flat-square&labelColor=21262D)](https://github.com/malu-koteski/SAIF)                              |
+| **Programacao-Python**    | Structured resolutions and algorithms for the Programming Logic course at UNIFESP. <br><br> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=21262D)     | [![View repo ↗](https://img.shields.io/badge/Programacao--Python-repository_↗-56D4DD?style=flat-square&labelColor=21262D)](https://github.com/malu-koteski/Programacao-Python) |
+| **circuitos-eletricos-I** | Electric Circuits I simulation and coursework tools built with TypeScript. <br><br> ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=21262D) | [![View repo ↗](https://img.shields.io/badge/View_repo_↗-56D4DD?style=flat-square&labelColor=21262D)](https://github.com/malu-koteski/circuitos-eletricos-I)                   |
+| **lp-aulas**              | Class notes, exercises, and practical examples from Programming Logic lectures. <br><br> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=21262D)        | [![View repo ↗](https://img.shields.io/badge/View_repo_↗-3FB950?style=flat-square&labelColor=21262D)](https://github.com/malu-koteski/lp-aulas)                                |
 
 ## Stack
 
@@ -58,14 +33,14 @@
 </picture>
 
 <details>
-<summary><b>&nbsp;Experience & Education</b> &nbsp;—&nbsp; lacit & UNIFESP</summary>
+<summary><b>&nbsp;Experience & Education</b> &nbsp;—&nbsp; IACIT & UNIFESP</summary>
 
 <br>
 
 | When                                                                                            | Where                                                                        | What                                                                                       |
 | :---------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------- |
-| ![now](https://img.shields.io/badge/PRESENT-3FB950?style=for-the-badge&labelColor=21262D)       | **Fullstack Dev Intern** <br> lacit                                          | Full-stack software development using JavaScript, TypeScript, Java, Python, HTML, and CSS. |
-| ![unifesp](https://img.shields.io/badge/UNDERGRAD-56D4DD?style=for-the-badge&labelColor=21262D) | **Universidade Federal de São Paulo (UNIFESP)** <br> São José dos Campos, SP | Coursework in Programming Logic, Python, C++, and Electric Circuits.                       |
+| ![now](https://img.shields.io/badge/PRESENT-3FB950?style=for-the-badge&labelColor=21262D)       | **Fullstack Dev Intern** <br> IACIT                                          | Full-stack software development using JavaScript, TypeScript, Java, Python, HTML, and CSS. |
+| ![unifesp](https://img.shields.io/badge/UNDERGRAD-56D4DD?style=for-the-badge&labelColor=21262D) | **Universidade Federal de São Paulo (UNIFESP)** <br> São José dos Campos, SP | Coursework in Computer Engineering, Programming Logic, Python, C++, and Electric Circuits. |
 
 </details>
 
@@ -84,11 +59,8 @@
 
 ## Talk to me
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/footer-light.svg">
-  <img alt="Want to collaborate on a project or talk about tech? Feel free to reach out via email or connect on GitHub. Open to opportunities and collabs. São José dos Campos, BR, UTC-03:00." src="assets/footer-dark.svg" width="100%">
-</picture>
+> Want to collaborate on a project or talk about tech? Feel free to reach out via email or connect on GitHub.  
+> **São José dos Campos, Brasil**
 
 <div align="center">
 
